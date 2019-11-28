@@ -1,0 +1,11 @@
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\bin\Debug\Verificador de Bin.exe.config
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\bin\Debug\Verificador de Bin.exe
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\bin\Debug\Verificador de Bin.pdb
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\bin\Debug\Verificador de Bin.xml
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\obj\Debug\Verificador de Bin.vbprojResolveAssemblyReference.cache
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\obj\Debug\Verificador_de_Bin.Form1.resources
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\obj\Debug\Verificador_de_Bin.Resources.resources
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\obj\Debug\Verificador de Bin.vbproj.GenerateResource.Cache
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\obj\Debug\Verificador de Bin.exe
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\obj\Debug\Verificador de Bin.xml
+c:\users\murilo\documents\visual studio 2015\Projects\Verificador de Bin\Verificador de Bin\obj\Debug\Verificador de Bin.pdb
